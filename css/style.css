@@ -1,0 +1,31 @@
+h1{
+	color:blue;
+	font-family:Garamond;
+	font-size:100px;
+	text-align: center;
+	background-image:url(images/fondo.jpg);
+}
+h2{
+	color:purple;
+	background-color:black;
+
+}
+h3{
+	color:pink;
+	font-family:cursive;
+}
+}
+body{
+	background-image:url(images/fondo.jpg);
+	
+}
+p{
+	color:green;
+	font-size:15px;
+	font-family:Arial;
+
+}
+* p h3{
+	background-color:brown;
+	font-family:sans-serif;
+}
